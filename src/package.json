@@ -1,0 +1,20 @@
+{
+  "name": "introjs-react-example",
+  "version": "1.0.0",
+  "description":
+    "intro.js-react example\n\nhttps://github.com/HiDeoo/intro.js-react",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/qk0011v1oq",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "intro.js-react": "0.1.0",
+    "intro.js": "2.6.0",
+    "leaflet": "^1.3.1",
+    "leaflet.markercluster": "^1.3.0",
+    "react-leaflet": "^1.9.0",
+    "react-leaflet-bing": "^2.0.0",
+    "react-leaflet-markercluster": "^1.1.8"
+  }
+}
